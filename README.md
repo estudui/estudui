@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Estu</h1>
-<h3 align="center">I am Web Developer and Backend Engineer</h3>
+<h3 align="center">I am Software Developer and Backend Engineer</h3>
 
-- 🔭 I’m currently working on **Billing Aggregator**
+- 🔭 I’m currently working on **Billing Aggregator Company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
